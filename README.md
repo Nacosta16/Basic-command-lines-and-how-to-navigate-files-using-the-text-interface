@@ -13,7 +13,7 @@ The command prompt, or CMD, is a vital source for troubleshooting basic issues i
         - After typing the command and then pressing enter, you will be able to check the DNS records to verify it is working properly 
     
    - <b> ipconfig </b>
-       - This command is great for showing the overall configurations 
+       - This command is great for showing the overall configurations of your machines network connections including wireless adapters, bluetooth, and ip address
   
    - <b> getmac </b>
   
