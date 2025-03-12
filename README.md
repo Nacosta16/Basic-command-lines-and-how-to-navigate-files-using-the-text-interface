@@ -69,6 +69,8 @@ The command prompt, or CMD, is a vital source for troubleshooting basic issues i
    - <b> .. [directory name] </b>
 
    - <b> format </b>
+
+   - <b> exit </b>
     
    - <b> help </b>
       
