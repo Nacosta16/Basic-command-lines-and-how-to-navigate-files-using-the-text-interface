@@ -15,9 +15,11 @@ The command prompt, or CMD, is a vital source for troubleshooting basic issues i
    - <b> ipconfig </b>
        - This command is great for showing the overall configurations of your machines network connections including wireless adapters, bluetooth, and ip address
   
-   - <b> getmac </b>
+   - <b> getmac </b.
+        - Using this command does exactly what it say. It displays the mac address for the current machine
   
    - <b> systeminfo </b>
+         - 
    
    - <b> sfc </b>
    
