@@ -5,68 +5,70 @@ The command prompt, or CMD, is a vital source for troubleshooting basic issues i
   <H> Need to know commands </H>
   
    - <b> Ping </b>
-        - Tests the network connection of a machine. Mostly used for the first step of troubleshooting when there is an issue with network connections  
-  - <b> nslookup </b>
+        - Tests the network connection of a machine. Mostly used for the first step of troubleshooting when there is an issue with network connections
+          
+   - <b> nslookup </b>
+        - T
+    
+   - <b> ipconfig </b>
   
-  - <b> ipconfig </b>
-  
-  - <b> getmac </b>
+   - <b> getmac </b>
   
    - <b> systeminfo </b>
    
    - <b> sfc </b>
    
-- <b> chkdsk </b>
+   - <b> chkdsk </b>
     
--  <b> arpc-a, arp -d </b>
+   -  <b> arpc-a, arp -d </b>
 
- - <b> winver </b>
+   - <b> winver </b>
 
-- <b> netstat </b>
+   - <b> netstat </b>
 
-- <b> tracert </b>
+   - <b> tracert </b>
 
-- <b> route print </b>
+   - <b> route print </b>
 
- - <b> tasklist taskkill /(pid number) /f </b>
+   - <b> tasklist taskkill /(pid number) /f </b>
 
-- <b> gpupdate </b>
+   - <b> gpupdate </b>
 
-- <b> gpresult </b>
+   - <b> gpresult </b>
 
-- <b> rsop </b>
+   - <b> rsop </b>
 
-- <b> dciag </b>
+   - <b> dciag </b>
 
-- <b> net stop, net start </b>
+   - <b> net stop, net start </b>
+ 
+   - <b> telnet client </b>
 
-- <b> telnet client </b>
+   - <b> mstsc </b>
 
-- <b> mstsc </b>
+   - <b> shutdown, shutdown /r shoutdwon /d </b>
 
-- <b> shutdown, shutdown /r shoutdwon /d </b>
+   - <b> cls </b>
 
-- <b> cls </b>
+   - <b> hostname </b>
 
-- <b> hostname </b>
+   - <b> dir </b>
 
-- <b> dir </b>
+   - <b> cd </b>
 
- - <b> cd </b>
+   - <b> xcopy </b>
 
-  - <b> xcopy </b>
+   - <b> robocopy </b>
 
- - <b> robocopy </b>
+   - <b> del </b>
 
- - <b> del </b>
+   - <b> rmdir </b>
 
-- <b> rmdir </b>
+   - <b> .. [directory name] </b>
 
-- <b> .. [directory name] </b>
-
-- <b> format </b>
+   - <b> format </b>
     
-- <b> help </b>
+   - <b> help </b>
       
     
   
