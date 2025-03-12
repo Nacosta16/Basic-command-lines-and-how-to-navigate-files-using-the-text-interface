@@ -22,13 +22,17 @@ The command prompt, or CMD, is a vital source for troubleshooting basic issues i
   
        - Similar to ipconfig this displays information om the machines connections expect it is more in depth on the OS, hardware, boot time and more
    
-   - <b> sfc </b>
+   - <b> sfc/scannow </b>
 
-       - 
+       - Sfc, or system file checker, is primarily used to scan the files when there is a sudden issue such as the blue screen of death or other sudden crashes. This command will go through the files and repair if needed/possible. You can also use sfc/verifyonly if you want to just do a scan and not a repair just yet
    
    - <b> chkdsk </b>
+
+        - Similar to the sfc command, this command checks the files except primarily on hard disks
     
-   -  <b> arpc-a, arp -d </b>
+   -  <b> arp-a, arp -d </b>
+
+        - Otherwise known as address resolution protocol 
 
    - <b> winver </b>
 
