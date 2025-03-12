@@ -1,6 +1,8 @@
 # Basic command lines and how to navigate files using the text interface
 
-The command prompt, or CMD, is a vital source for troubleshooting basic issues in the IT help desk industry so its essential to know some key every day commands by heart and how to navigate
+The command prompt, or CMD, is a vital source for troubleshooting basic issues in the IT help desk industry so its essential to know some key every day commands by heart and how to navigate. You can open the CMD by typing in command prompt or cmd in the search bar of your start page on the bottom left of your desktop or by clicking the windows key + R 
+
+<img src="https://sigmawire.net/i/03/3PvmZA.png" height="40%" width="40%" alt="VirtualBox set up wizard"/> 
 
   <H> Need to know commands </H>
   
@@ -8,7 +10,7 @@ The command prompt, or CMD, is a vital source for troubleshooting basic issues i
         - Tests the network connection of a machine. Mostly used for the first step of troubleshooting when there is an issue with network connections
           
    - <b> nslookup </b>
-        - T
+        - After typing the command and then pressing enter, you will be able to check the DNS records to verify it is working properly 
     
    - <b> ipconfig </b>
   
