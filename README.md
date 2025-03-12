@@ -32,15 +32,22 @@ The command prompt, or CMD, is a vital source for troubleshooting basic issues i
     
    -  <b> arp-a, arp -d </b>
 
-        - Otherwise known as address resolution protocol 
+        - Otherwise known as address resolution protocol, this command modifies the cache for arp interfaces. The arp -a command, specifically displays the actual cache while the arp -d actual deletes it. This is usful for when you are having network issues or if there is an issue with ARP spoofing
 
    - <b> winver </b>
+         - This command is used to display the verison of windows on your machine
 
    - <b> netstat </b>
 
+      - The netstat command shows all port connections with TCP and IP information included, as well as all active network connections
+     
    - <b> tracert </b>
 
+       - Used for network troubleshooting, this command will track the packets and the hops it takes from the source to the destination. This would be used best when testing the speed of a network if you are having issues
+
    - <b> route print </b>
+
+       - 
 
    - <b> tasklist taskkill /(pid number) /f </b>
 
