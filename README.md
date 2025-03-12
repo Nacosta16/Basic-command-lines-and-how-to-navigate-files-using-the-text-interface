@@ -19,9 +19,12 @@ The command prompt, or CMD, is a vital source for troubleshooting basic issues i
         - Using this command does exactly what it say. It displays the mac address for the current machine
   
    - <b> systeminfo </b>
-         - 
+  
+       - Similar to ipconfig this displays information om the machines connections expect it is more in depth on the OS, hardware, boot time and more
    
    - <b> sfc </b>
+
+       - 
    
    - <b> chkdsk </b>
     
