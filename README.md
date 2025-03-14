@@ -1,4 +1,4 @@
-# Basic command lines and how to navigate files using the text interface
+# Some common command lines and how to navigate files using the CMD interface
 
 The command prompt, or CMD, is a vital source for troubleshooting basic issues in the IT help desk industry so its essential to know some key every day commands by heart and how to navigate. You can open the CMD by typing in command prompt or cmd in the search bar of your start page on the bottom left of your desktop or by clicking the windows key + R 
 
