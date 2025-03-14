@@ -35,7 +35,8 @@ The command prompt, or CMD, is a vital source for troubleshooting basic issues i
         - Otherwise known as address resolution protocol, this command modifies the cache for arp interfaces. The arp -a command, specifically displays the actual cache while the arp -d actual deletes it. This is usful for when you are having network issues or if there is an issue with ARP spoofing
 
    - <b> winver </b>
-         - This command is used to display the verison of windows on your machine
+   
+        - This command is used to display the verison of windows on your machine
 
    - <b> netstat </b>
 
